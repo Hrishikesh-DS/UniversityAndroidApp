@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">UniversityApp</string>
     <string name="label">Trial</string>
+
     <string name="title">This is my change in app</string>
+
+    
+    <string name="newTitle">Android</string>
+    <string name="anotherTitle">iOS</string>
+
 </resources>
